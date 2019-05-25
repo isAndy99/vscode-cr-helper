@@ -2,6 +2,7 @@
   "name": "cr-helper",
   "displayName": "CR Helper",
   "description": "A utility that helps you identify the most recent common ancestor of two git branches of your choice",
+  "publisher": "andreitaran",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.34.0"
